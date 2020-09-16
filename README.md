@@ -17,7 +17,7 @@ $pip install streamlit
 In terminal run
 $streamlit run https://github.com/Zeel2864/Synapse_ML/blob/master/Synapse/Synapse%20Unsupervised%20Model.py
 
-![image](H:\New folder\Synapse\Synapse-unsupervised-models.png)
+(H:\New folder\Synapse\Synapse-unsupervised-models.png)
 
 
 
