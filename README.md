@@ -6,8 +6,11 @@ Principal Component Analysis Requirements
 First Install this all libraries if you haven't insatll
 
 $ pip install numpy
+
 $ pip install pandas
+
 $ pip install plotly
+
 $ pip install streamlit
 
 
